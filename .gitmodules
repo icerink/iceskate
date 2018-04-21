@@ -4,3 +4,6 @@
 [submodule "lib/kicad-lib"]
 	path = lib/kicad-lib
 	url = https://github.com/mcous/kicad-lib
+[submodule "lib/kicad-pcblib"]
+	path = lib/kicad-pcblib
+	url = https://github.com/cpavlina/kicad-pcblib

@@ -32,4 +32,6 @@
   (lib (name switch)(type KiCad)(uri /home/nein/code/iceglue/lib/kicad-lib/footprints/switch.pretty)(options "")(descr ""))
   (lib (name texas)(type KiCad)(uri /home/nein/code/iceglue/lib/kicad-lib/footprints/texas.pretty)(options "")(descr ""))
   (lib (name to)(type KiCad)(uri /home/nein/code/iceglue/lib/kicad-lib/footprints/to.pretty)(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri /home/nein/code/iceglue/lib/custom.pretty)(options "")(descr ""))
+  (lib (name conn-fci)(type KiCad)(uri /home/nein/code/iceglue/lib/kicad-pcblib/conn-fci.pretty)(options "")(descr ""))
 )
