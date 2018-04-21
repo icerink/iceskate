@@ -1,0 +1,6 @@
+[submodule "lib/Housings_SSOP.pretty"]
+	path = lib/Housings_SSOP.pretty
+	url = https://github.com/KiCad/Housings_SSOP.pretty
+[submodule "lib/kicad-lib"]
+	path = lib/kicad-lib
+	url = https://github.com/mcous/kicad-lib
