@@ -7,9 +7,9 @@ A low cost FPGA development board for absolute newbies.
 Getting started with FPGA design is hard. Unnecessarily hard.
 
 ## How?
-Everyone knows how to use a browser. And many people know (some) webdesign.
+Everyone knows how to use a browser. Many people know (some) webdesign.
 
-The [*icerink*](https://github.com/icerink) ecosystem tries to exploit this by transfering building a complete browser centric FPGA workflow. Edit, synthesize and upload FPGA designs from within your browser.
+The [*icerink*](https://github.com/icerink) ecosystem tries to exploit this by building a complete browser centric FPGA workflow. Edit, synthesize and upload FPGA designs from within your browser.
 
 Doing this lowers the boarding hurdle by not requiring the installation of toolchains. Just plug in the board and begin to play :).
 
