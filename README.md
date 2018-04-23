@@ -29,7 +29,7 @@ The iceskate board features:
 ## How to get one?
 Build one yourself!
 
-The board is optimized for hand soldering and has a BOM cost of ~10€ when you build 10. The PCB can be ordered online at most common PCB manufacturers. We Ordered our boards at jlcpcb. 
+The board is optimized for hand soldering and has a [BOM cost](https://octopart.com/bom-tool/w8mU938s) of ~10€ when you build 10. The PCB can be ordered online at most common PCB manufacturers. We Ordered our boards at jlcpcb. 
 
 ## Can I help?
 Definitely.
