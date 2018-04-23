@@ -1,4 +1,4 @@
-update=Thu 19 Apr 2018 04:40:18 PM CEST
+update=Mon 23 Apr 2018 05:56:50 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=contrib
 LibName32=valves
 LibName33=lib/lattice
 LibName34=lib/stm32f070f6p6
+LibName35=lib/kicad-schlib/library/semi-diode-ST

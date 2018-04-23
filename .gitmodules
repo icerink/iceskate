@@ -7,3 +7,9 @@
 [submodule "lib/kicad-pcblib"]
 	path = lib/kicad-pcblib
 	url = https://github.com/cpavlina/kicad-pcblib
+[submodule "lib/kicad-schlib"]
+	path = lib/kicad-schlib
+	url = https://github.com/cpavlina/kicad-schlib
+[submodule "lib/kicad-libraries"]
+	path = lib/kicad-libraries
+	url = https://github.com/Tinkerforge/kicad-libraries

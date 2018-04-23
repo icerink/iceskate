@@ -34,4 +34,6 @@
   (lib (name to)(type KiCad)(uri "$(KIPRJMOD)/lib/kicad-lib/footprints/to.pretty")(options "")(descr ""))
   (lib (name conn-fci)(type KiCad)(uri "$(KIPRJMOD)/lib/kicad-pcblib/conn-fci.pretty")(options "")(descr ""))
   (lib (name custom)(type KiCad)(uri "$(KIPRJMOD)/lib/custom.pretty")(options "")(descr ""))
+  (lib (name pth-passive)(type KiCad)(uri "$(KIPRJMOD)/lib/kicad-pcblib/pth-passive.pretty")(options "")(descr ""))
+  (lib (name kicad-libraries)(type KiCad)(uri "$(KIPRJMOD)/lib/kicad-libraries")(options "")(descr ""))
 )
