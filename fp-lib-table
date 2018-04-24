@@ -36,4 +36,6 @@
   (lib (name custom)(type KiCad)(uri "$(KIPRJMOD)/lib/custom.pretty")(options "")(descr ""))
   (lib (name pth-passive)(type KiCad)(uri "$(KIPRJMOD)/lib/kicad-pcblib/pth-passive.pretty")(options "")(descr ""))
   (lib (name kicad-libraries)(type KiCad)(uri "$(KIPRJMOD)/lib/kicad-libraries")(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri "$(KIPRJMOD)/lib")(options "")(descr ""))
+  (lib (name OPENHARDWARE)(type Legacy)(uri "$(KIPRJMOD)/lib/Open-Source-Hardware-Logos-for-Kicad/OPENHARDWARE.mod")(options "")(descr ""))
 )

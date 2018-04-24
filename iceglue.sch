@@ -1083,7 +1083,7 @@ U 1 1 5ADEF1A0
 P 9150 4350
 F 0 "FID1" H 9150 4100 60  0000 C CNN
 F 1 "FIDUCIAL" H 9150 4600 60  0000 C CNN
-F 2 "Fiducials:Fiducial_classic_Small_CopperBottom_Type1" H 9150 4350 60  0001 C CNN
+F 2 "Fiducials:Fiducial_0.5mm_Dia_1mm_Outer" H 9150 4350 60  0001 C CNN
 F 3 "" H 9150 4350 60  0000 C CNN
 	1    9150 4350
 	1    0    0    -1  
@@ -1094,7 +1094,7 @@ U 1 1 5ADEF22D
 P 9650 4350
 F 0 "FID2" H 9650 4100 60  0000 C CNN
 F 1 "FIDUCIAL" H 9650 4600 60  0000 C CNN
-F 2 "Fiducials:Fiducial_classic_Small_CopperBottom_Type1" H 9650 4350 60  0001 C CNN
+F 2 "Fiducials:Fiducial_0.5mm_Dia_1mm_Outer" H 9650 4350 60  0001 C CNN
 F 3 "" H 9650 4350 60  0000 C CNN
 	1    9650 4350
 	1    0    0    -1  
@@ -1105,7 +1105,7 @@ U 1 1 5ADEF275
 P 10550 4350
 F 0 "FID4" H 10550 4100 60  0000 C CNN
 F 1 "FIDUCIAL" H 10550 4600 60  0000 C CNN
-F 2 "Fiducials:Fiducial_classic_Small_CopperTop_Type1" H 10550 4350 60  0001 C CNN
+F 2 "Fiducials:Fiducial_0.5mm_Dia_1mm_Outer" H 10550 4350 60  0001 C CNN
 F 3 "" H 10550 4350 60  0000 C CNN
 	1    10550 4350
 	1    0    0    -1  
@@ -1116,7 +1116,7 @@ U 1 1 5ADEF693
 P 10100 4350
 F 0 "FID3" H 10100 4100 60  0000 C CNN
 F 1 "FIDUCIAL" H 10100 4600 60  0000 C CNN
-F 2 "Fiducials:Fiducial_classic_Small_CopperTop_Type1" H 10100 4350 60  0001 C CNN
+F 2 "Fiducials:Fiducial_0.5mm_Dia_1mm_Outer" H 10100 4350 60  0001 C CNN
 F 3 "" H 10100 4350 60  0000 C CNN
 	1    10100 4350
 	1    0    0    -1  

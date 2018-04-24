@@ -13,3 +13,6 @@
 [submodule "lib/kicad-libraries"]
 	path = lib/kicad-libraries
 	url = https://github.com/Tinkerforge/kicad-libraries
+[submodule "lib/Open-Source-Hardware-Logos-for-Kicad"]
+	path = lib/Open-Source-Hardware-Logos-for-Kicad
+	url = https://github.com/wayneandlayne/Open-Source-Hardware-Logos-for-Kicad
