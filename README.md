@@ -30,7 +30,7 @@ The iceskate board features:
 Build one yourself!
 
 The board is optimized for hand soldering and has a [BOM cost](https://octopart.com/bom-tool/w8mU938s) of ~10€ when you build 10. The PCB can be ordered online at most common PCB manufacturers. We Ordered our boards at jlcpcb. 
-[Assembly instructiost can be found here.](https://github.com/icerink/iceskate)
+[Assembly instructiost can be found here.](https://icerink.github.io/iceskate/)
 
 ## Can I help?
 Definitely.
